@@ -1,0 +1,45 @@
+body{
+  background-color: #cfd8dc;
+}
+
+a {
+  color: #fff;
+}
+
+.navbar-default{
+  background-color: #00838f;
+  height: 10%;
+  color: #fff;
+}
+
+.glyphicon .glyphicon-arrow-left {
+    font-size: 80px;
+    color: #fff;
+}
+
+.page-title {
+  margin: 3% 15%;
+}
+
+.card {
+  margin: 3% 14%;
+}
+
+.card-blockquote{
+  padding: 3% 2.5%;
+}
+
+footer {
+   padding-top: 1%;
+   font-style: italic;
+   color: #b0bec5;
+   font-size: 75%;
+}
+
+.report-container {
+  background: #fff;
+  border-bottom: 3px solid #ddd;
+  box-shadow: 5px 0 15px rgba(0,0,0,0.2);
+  padding: 3% 2.5%;
+  margin: 3% 15%;
+}
